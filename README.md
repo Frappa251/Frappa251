@@ -66,14 +66,6 @@
   <img height="165" src="https://streak-stats.demolab.com?user=Frappa251&hide_border=true&background=0D1117&ring=FF2E97&fire=39FF14&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frappa251&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frappa251&bg_color=0D1117&color=00D4FF&line=39FF14&point=FF2E97&area=true&area_color=00D4FF&hide_border=true" />
-</p>
-
 ---
 
 ## 🧪 Projects
