@@ -60,19 +60,24 @@
 
 ## 📊 Stats
 
-<!-- Due card affiancate. Se non si caricano: istanza pubblica sovraccarica → deploy della tua su Vercel -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Frappa251&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=39FF14&text_color=C9D1D9&ring_color=FF2E97&rank_icon=github" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Frappa251&hide_border=true&background=0D1117&ring=FF2E97&fire=39FF14&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=Frappa251&hide_border=true&background=0D1117&ring=FF2E97&fire=39FF14&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </p>
+
+<!-- Card stats + linguaggi: si attivano DOPO il deploy della tua istanza Vercel.
+     Sostituisci TUA-ISTANZA con il tuo URL e togli i commenti attorno al blocco.
+
+<p align="center">
+  <img height="165" src="https://TUA-ISTANZA.vercel.app/api?username=Frappa251&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=39FF14&text_color=C9D1D9&ring_color=FF2E97&rank_icon=github" />
+  <img height="165" src="https://TUA-ISTANZA.vercel.app/api/top-langs/?username=Frappa251&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=6" />
+</p>
+
+-->
+
 
 ---
 
 ## 🧪 Projects
-
-<details>
-<summary>📂 Click to expand</summary>
-<br/>
 
 | Project | Stack | What |
 |---|---|---|
@@ -81,15 +86,13 @@
 | **turni-fly** | Flutter · Firebase | Shift management app |
 | **emergency-app** | Flutter · Firebase | Proximity-based emergency alerts |
 
-</details>
-
 ---
 
 ## 🎧 Down time
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPV_Drones-0D1117?style=for-the-badge&logo=dji&logoColor=00D4FF" />
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
 
